@@ -1,0 +1,14 @@
+10 x 10
+dynamic
+2 2 x 2
+easter
+x x x x x x x x x x
+x x x x d - - - c x
+x x x x x x x - x x
+x x x x - - - - - x
+x - c x c x x x x x
+x - x x - - - - - x
+x - x x x x x x c x
+x - - - - - - - - x
+x x x x p x x x x x
+x x x x x x x x x x

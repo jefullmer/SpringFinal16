@@ -1,0 +1,16 @@
+12 x 12
+dynamic
+3 5 x 5
+patricks
+x x x x x x x x x x x x
+x x x c x x x x d x x x
+x x x - - - x x c x x x
+x x x x x - x x - - x x
+x x x x x - x x x - x x
+x c - - - p - x - c x x
+x c x x x - x x - x x x
+x - - - - - x x - x x x
+x x x x x - - - - x x x
+x x c - - - x x x x x x
+x x x x c x x x x x x x
+x x x x x x x x x x x x

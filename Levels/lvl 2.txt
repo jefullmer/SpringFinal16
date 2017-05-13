@@ -1,0 +1,8 @@
+4 x 4
+dynamic
+none
+valentines
+p - x x
+x - c x
+x x - x
+x x - d
